@@ -1,5 +1,5 @@
 # Hello-world
-First repository
+
 Hi everyone!
 
 Bisope here, I am new to programming and like art a lot making me work hard and creative.
